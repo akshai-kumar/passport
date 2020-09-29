@@ -52,7 +52,7 @@ h2{
 
  body {
     font-family: Calibri;
-   // background-image:
+    background-image:
         url("http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509984447/global-travel-passports-POWERPASSPORT1117.jpg?itok=Lp3qGpzo");
     background-repeat: repeat;
     background-attachment: fixed;
